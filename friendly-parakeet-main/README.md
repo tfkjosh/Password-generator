@@ -44,7 +44,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Usage
 
-![Generate Password](file:///Users/macuser/Desktop/uta/UTA-VIRT-FSF-PT-07-2023-U-LOLC-main%206/friendly-parakeet-main/Develop/index.html
+![Generate Password](file:///Users/macuser/Desktop/uta/UTA-VIRT-FSF-PT-07-2023-U-LOLC-main%206/friendly-parakeet-main/Develop/index.html)
 
 Navigate to [Generate Password Repository](https://github.com/tfkjosh/Password-generator/edit/main/friendly-parakeet-main/README.md) and view the web page.
 
