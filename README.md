@@ -44,7 +44,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Usage
 
 
-Navigate to [Generate Password]() and view the web page.
+Navigate to [Generate Password](https://tfkjosh.github.io/Password-generator/) and view the web page.
 
 ## Credits
 
